@@ -1,0 +1,21 @@
+.App ol {
+    text-align: left;
+}
+
+.App ul {
+    list-style: none;
+    margin: auto;
+}
+
+.App ul li {
+    display: inline-block;
+    margin: 10px;
+    
+}
+.App ul li a {
+    text-decoration: none;
+}
+
+.active {
+    color: salmon;
+}
